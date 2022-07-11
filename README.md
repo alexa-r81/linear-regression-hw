@@ -1,1 +1,1 @@
-# linear-regression-hw
+# This is just a random quantative dataset I found on kaggle.com. The data set was info on various diamonds. For my graph I did the correlation between carat and price, because I figured there would be a strong correlation, and there was. The r squared value was 0.849, so it was a very good line of best fit. As expected, price got higher as carat got higher. 
